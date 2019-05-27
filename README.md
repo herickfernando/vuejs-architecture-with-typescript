@@ -1,4 +1,4 @@
-# vuejs-with-typescript
+# vuejs-architecture-with-typescript
 
 ## Project setup
 ```
